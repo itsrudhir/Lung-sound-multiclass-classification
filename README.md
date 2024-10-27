@@ -1,4 +1,7 @@
 # Lung-sound-multiclass-classification
+
+# KINDLY REFER TO THE NOTEBOOK AND OBSERVE THE DATASET USING THE LINK TO GET IN-DEPTH IN-SIGHTS REGARDING THE ABOVE EXPLAINATION AND SOLUTION OF THE PROBLEM STATEMENT.
+
 A multiclass classification using Computer Vision concepts implemented on OpenCV to classify things on basis of lung sounds.
 
 
@@ -36,6 +39,6 @@ Link :- https://www.kaggle.com/code/rudhirmahalik/cv-project-final/input
      - the results of the model was visualized using certain tools and libraries like matplotlib where the confusion matrix and graphs are ploted for the cross validation results and accuracy to visualize the performance of the model throughout the convergence process of the accuracy; and this helps to visualize the error levels of the models also.
   
    
-# KINDLY REFER TO THE NOTEBOOK AND OBSERVE THE DATASET USING THE LINK TO GET IN-DEPTH IN-SIGHTS REGARDING THE ABOVE EXPLAINATION AND SOLUTION OF THE PROBLEM STATEMENT.
+
 
 
